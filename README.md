@@ -2,7 +2,7 @@
 
 The implemention of the paper *Dlearning_PPO: Online D-Learning with Clipping Operation for Fast Model-Free Stabilizing Control* .
 
-## Configuring the RFlySim simulation environment
+## Configuring the RflySim simulation environment
 
 Refer to [RflySim](https://rflysim.com/) .
 
