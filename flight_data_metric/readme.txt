@@ -1,0 +1,1 @@
+This is the folder where the simulated flight data is stored after each feature extraction.

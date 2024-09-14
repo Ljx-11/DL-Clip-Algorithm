@@ -1,0 +1,1 @@
+This is the folder that holds the images for each simulation.
