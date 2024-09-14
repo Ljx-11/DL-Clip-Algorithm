@@ -1,6 +1,6 @@
-# Dlearning_PPO: Online D-Learning with Clipping Operation for Fast Model-Free Stabilizing Control
+#  DL-Clip: Online D-Learning with Clipping Operation for Fast Model-Free Stabilizing Control
 
-The implemention of the paper *Dlearning_PPO: Online D-Learning with Clipping Operation for Fast Model-Free Stabilizing Control* .
+The implemention of the paper * DL-Clip: Online D-Learning with Clipping Operation for Fast Model-Free Stabilizing Control* .
 
 ## Configuring the RflySim simulation environment
 
